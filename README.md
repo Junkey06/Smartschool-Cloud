@@ -1,4 +1,4 @@
-A web-based cloud application called SmartSchool Cloud, hosted on a cloud server and accessible via a WAN (the internet).
+A cloud-based system called SmartSchool Cloud, hosted on a cloud server and accessible via a WAN (the internet).
 It will:
 Store all school data (students, attendance, results, announcements) in the cloud (Firebase)
 
