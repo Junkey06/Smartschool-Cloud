@@ -1,6 +1,6 @@
 # Smart School Cloud
 ### Name: TIOTSE DOUNGMENE BERTRAND JUNIOR
-### Video link: https://youtu.be/cIsAIskEXjI](https://youtu.be/cIsAIskEXjI?si=goFmJ-EjXZP-_iOG
+### Video link: https://youtu.be/cIsAIskEXjI
 A cloud-based system called SmartSchool Cloud, hosted on a cloud server and accessible via a WAN (the internet).
 It will:
 Store all school data (students, attendance, results, announcements) in the cloud (Firebase)
